@@ -3,7 +3,7 @@
     <string name="tts_settings_label">Ajustes de SmartVoice</string>
     <string name="pref_voices">Seleccione la voz preferida para su  idioma</string>
     <string name="pref_voices_extra">Adicional</string>
-    <string name="pref_languages_auto">Detección automatizada del idioma por naturaleza del texto</string>
+    <string name="pref_languages_auto">Detección automática del idioma basada en  la naturaleza del texto</string>
     <string name="pref_language_this">Seleccione la voz preferida para este idioma</string>
     <string name="volume_setting">Volumen</string>
     <string name="rate_setting">Velocidad de voz</string>
@@ -51,8 +51,7 @@
     <string name="all">Todo</string>
     <string name="notification_channel_description">Canal de notificaciones de SmartVoice</string>
     <string name="intonation_setting">Expresividad</string>
-    <string name="interclause_gap_setting">Duración de las pausasentre
-    frases</string>
+    <string name="interclause_gap_setting">Duración de las pausas entre    frases</string>
     <string name="pref_decimal_point_title">Tratar el punto dentro de número como separador decimal</string>
     <string name="pref_decimal_comma_title">Tratar la coma dentro de número como separador decimal</string>
     <string name="voice_male">Masculino</string>
